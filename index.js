@@ -70,4 +70,15 @@ for (let i = 0; i < 100 + 1; i++) {
   
   setTimeout(() => {yourFunctionName();}, 1000 * i);
 }
-
+for (let i = 0; i < 100 + 1; i++) {
+  
+  setTimeout(() => {yourFunctionName();}, 1000 * i);
+}
+for (let i = 0; i < 100 + 1; i++) {
+  
+  setTimeout(() => {yourFunctionName();}, 1000 * i);
+}
+for (let i = 0; i < 100 + 1; i++) {
+  
+  setTimeout(() => {yourFunctionName();}, 1000 * i);
+}

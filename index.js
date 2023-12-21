@@ -66,8 +66,8 @@ async function yourFunctionName() {
   //console.log("Maid: " + (await akaneko.nsfw.maid()));
   //console.log("Hentai: " + (await akaneko.nsfw.hentai()));
 }
-for (let i = 0; i < 20 + 1; i++) {
+for (let i = 0; i < 100 + 1; i++) {
   
-  setTimeout(() => {yourFunctionName();}, 3000 * i);
+  setTimeout(() => {yourFunctionName();}, 1000 * i);
 }
 
